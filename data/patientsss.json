@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "P01",
+    "first_name": "John",
+    "last_name": "Smith",
+    "year_of_birth": 1999,
+    "blood_type": "-B",
+    "address": {
+      "city": "ABC",
+      "street": "NY",
+      "district": "XYZ",
+      "ward": "AL"
+    },
+    "telephones": [
+      "1234",
+      "1234"
+    ],
+    "tests": [
+      {
+        "result": "High",
+        "testId": 123,
+        "testType": "Low",
+        "cost": 150.0,
+        "date": {
+          "day": 1,
+          "month": 2,
+          "year": 2021
+        }
+      }
+    ]
+  },
+  {
+    "_id": "P01",
+    "first_name": "John",
+    "last_name": "Smith",
+    "year_of_birth": 1999,
+    "blood_type": "-B",
+    "address": {
+      "city": "ABC",
+      "street": "NY",
+      "district": "XYZ",
+      "ward": "AL"
+    },
+    "telephones": [
+      "1234",
+      "1234"
+    ],
+    "tests": [
+      {
+        "result": "High",
+        "testId": 123,
+        "testType": "Low",
+        "cost": 150.0,
+        "date": {
+          "day": 1,
+          "month": 2,
+          "year": 2021
+        }
+      }
+    ]
+  },
+  {
+    "_id": "P01",
+    "first_name": "John",
+    "last_name": "Smith",
+    "year_of_birth": 1999,
+    "blood_type": "-B",
+    "address": {
+      "city": "ABC",
+      "street": "NY",
+      "district": "XYZ",
+      "ward": "AL"
+    },
+    "telephones": [
+      "1234",
+      "1234"
+    ],
+    "tests": [
+      {
+        "result": "High",
+        "testId": 123,
+        "testType": "Low",
+        "cost": 150.0,
+        "date": {
+          "day": 1,
+          "month": 2,
+          "year": 2021
+        }
+      }
+    ]
+  }
+]
